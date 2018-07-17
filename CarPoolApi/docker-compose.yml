@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  carpoolapi:
+    image: carpoolapi
+    build:
+      context: .
+      dockerfile: CarPoolApi\Dockerfile

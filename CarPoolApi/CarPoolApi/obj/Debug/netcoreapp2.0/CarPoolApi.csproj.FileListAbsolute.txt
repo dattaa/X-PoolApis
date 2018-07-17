@@ -1,0 +1,11 @@
+D:\Code\Xperiments\CarPoolApi\CarPoolApi\bin\Debug\netcoreapp2.0\CarPoolApi.deps.json
+D:\Code\Xperiments\CarPoolApi\CarPoolApi\bin\Debug\netcoreapp2.0\CarPoolApi.runtimeconfig.json
+D:\Code\Xperiments\CarPoolApi\CarPoolApi\bin\Debug\netcoreapp2.0\CarPoolApi.runtimeconfig.dev.json
+D:\Code\Xperiments\CarPoolApi\CarPoolApi\bin\Debug\netcoreapp2.0\CarPoolApi.dll
+D:\Code\Xperiments\CarPoolApi\CarPoolApi\bin\Debug\netcoreapp2.0\CarPoolApi.pdb
+D:\Code\Xperiments\CarPoolApi\CarPoolApi\obj\Debug\netcoreapp2.0\CarPoolApi.csprojResolveAssemblyReference.cache
+D:\Code\Xperiments\CarPoolApi\CarPoolApi\obj\Debug\netcoreapp2.0\CarPoolApi.csproj.CoreCompileInputs.cache
+D:\Code\Xperiments\CarPoolApi\CarPoolApi\obj\Debug\netcoreapp2.0\CarPoolApi.AssemblyInfoInputs.cache
+D:\Code\Xperiments\CarPoolApi\CarPoolApi\obj\Debug\netcoreapp2.0\CarPoolApi.AssemblyInfo.cs
+D:\Code\Xperiments\CarPoolApi\CarPoolApi\obj\Debug\netcoreapp2.0\CarPoolApi.dll
+D:\Code\Xperiments\CarPoolApi\CarPoolApi\obj\Debug\netcoreapp2.0\CarPoolApi.pdb
